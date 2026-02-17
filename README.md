@@ -1,2 +1,18 @@
 # hostfully-java-test
-Mockup implementation for Hostfully
+
+## Prerequisites
+
+- Java 17+
+- Maven 3.8+
+
+## Run
+
+```
+mvn spring-boot:run
+```
+
+## Test
+
+```
+mvn test
+```
